@@ -55,3 +55,12 @@ A simple full-stack task management dashboard built with **Laravel** and **MySQL
 ## Screenshots
 
 <!-- project screenshots -->
+
+<img width="1911" height="946" alt="image" src="https://github.com/user-attachments/assets/65ffa10b-4465-4f4b-9906-8737602e790a" />
+<img width="1898" height="941" alt="image" src="https://github.com/user-attachments/assets/f7523554-a24d-43b7-a978-9d79e7c9337b" />
+<img width="1904" height="944" alt="image" src="https://github.com/user-attachments/assets/868a341b-b0c3-4d62-b9d5-58ec88dccde0" />
+<img width="1886" height="942" alt="image" src="https://github.com/user-attachments/assets/192705cc-2a09-4edd-a73d-e991bd898226" />
+<img width="998" height="412" alt="image" src="https://github.com/user-attachments/assets/17f444f4-facf-4ac1-b952-eaf89c1fa0f7" />
+
+
+
